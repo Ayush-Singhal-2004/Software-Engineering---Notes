@@ -26,10 +26,10 @@ iv. There may be difficult to estimate the final cost of the project due to cons
 
 ![](https://images.ctfassets.net/4zfc07om50my/5wMHnK8XxK9kW99mebdp94/2cc919cd11ba35f6db993977fd0ff674/Agile.png)
 
-<h3>3.Why do we need requirement validation?</h3></br>
+<h3>3.Why do we need requirement validation?</h3>
 - TODO :
 
-<h3>4. Distinguish between software process, software project, and software product?</h3></br>
+<h3>4. Distinguish between software process, software project, and software product?</h3>
 - Software Process : </br>
 i. The software process refers to the set of activities, methods, practices, and transformations that are used to develop and maintain software systems. </br>
 ii. It encompasses the entire lifecycle of software development, including planning, requirements analysis, design, implementation, testing, deployment, maintenance, and eventual retirement or replacement of the software. </br>
@@ -45,22 +45,22 @@ ii. It is the actual software system, application, or solution that fulfills use
 iii. Software products can be commercial off-the-shelf (COTS) products, custom-built applications, or open-source software. </br>
 iv. Once developed, a software product undergoes maintenance, updates, and enhancements throughout its lifecycle to address bugs, add new features, or adapt to changing requirements.</br></br>
 
-<h3>5. What is importance of Software Engineering?</h3></br>
+<h3>5. What is importance of Software Engineering?</h3>
 i. Facilitates Reliable Software Development: Software engineering provides systematic methodologies and best practices that ensure the development of reliable, robust, and high-quality software products. </br>
 ii. Ensures Cost-Effectiveness: Effective software engineering practices help in optimizing resource allocation, reducing development costs, and maximizing return on investment.</br>
 iii. Supports Scalability and Maintainability: Software engineering principles emphasize modularity, reusability, and scalability, enabling software systems to accommodate growth and adapt to evolving business needs. Well-designed software architectures and coding standards facilitate easier maintenance, updates, and enhancements, ensuring that software products remain relevant and functional over time.</br>
 iv. Enhances Productivity and Efficiency: By adopting standardized development practices, automated tools, and collaborative workflows, software engineering enables teams to work more efficiently and productively.</br>
 v. Improves Software Security and Reliability: With the increasing prevalence of cybersecurity threats and data breaches, software engineering plays a critical role in ensuring the security and reliability of software systems. By integrating security measures, conducting thorough testing, and adhering to coding standards and security protocols, software engineers can mitigate vulnerabilities, protect sensitive data, and enhance the overall security posture of software products.</br></br>
 
-<h3>6. Write a critical analysis of Waterfall Model?</h3></br>
+<h3>6. Write a critical analysis of Waterfall Model?</h3>
 i. Waterfall model is an example of a Sequential model. In this model, the software development activity is divided into different phases and each phase consists of series of tasks and has different objectives. It is divided into phases and output of one phase becomes the input of the next phase. </br>
 ii. It is mandatory for a phase to be completed before the next phase starts. In short, there is no overlapping in Waterfall model. Since the phases fall from higher level to lower level, like a waterfall, It’s named as waterfall model. </br></br>
 - Problems with Waterfall model : </br>
 i. Sequential Nature, which is not realistic.</br>
 ii. Not suitable to accommodate the change. </br>
 iii. Working software is not available till very late in the Software development cycle. </br>
-iv. Expects complete & accurate requirements early in software development process. 
+iv. Expects complete & accurate requirements early in software development process. </br></br>
 
 ![](https://miro.medium.com/v2/resize:fit:500/1*tGKCSfTfV8E8t4atqrLE4A.png)
 
-<h3>7. </h3></br>
+</br></br>
