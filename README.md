@@ -1,7 +1,7 @@
 <h1>Unit 1</h1>
 <h3>1. What is Software Engineering?</h3>
 - Software Engineering consists of two words software and engineering, where Software can be defined as a collection of computer programs, which in turn is a collection of commands. Engineering on the other hand, is all about developing products, using well-defined, scientific principles and methods.</br>
-- Software Engineering is a systemic, well disciplined ,cost effective techniques for software development. The outcome of software engineering is an efficient and reliable software product</br>
+- Software Engineering is a systemic, well disciplined, cost effective techniques for software development. The outcome of software engineering is an efficient and reliable software product</br>
 
 <h3>2. What is Agile Process?</h3>
 - Agile means changes, & to adapt those changes. Agile is a project management methodology that breaks down larger projects into smaller, manageable chunks known as iterations. At the end of every iteration something of value is produced. The product that’s produced during every iteration should be able to be placed into the world to receive feedback from stakeholders or users.</br></br>
