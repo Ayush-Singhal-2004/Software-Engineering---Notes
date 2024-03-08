@@ -6,7 +6,7 @@
 <h3>2. What is Agile Process?</h3>
 - Agile means changes, & to adapt those changes. Agile is a project management methodology that breaks down larger projects into smaller, manageable chunks known as iterations. At the end of every iteration something of value is produced. The product that’s produced during every iteration should be able to be placed into the world to receive feedback from stakeholders or users.
 - Phases of Agile Process :
-i. Requirement gathering and analysis
+i. Requirement gathering and analysis \n
 ii. Design the requirements
 iii. Construction/ iteration
 iv. Deployment
