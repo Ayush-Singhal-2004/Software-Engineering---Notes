@@ -4,20 +4,20 @@
 - Software Engineering is a systemic, well disciplined ,cost effective techniques for software development. The outcome of software engineering is an efficient and reliable software product</br>
 
 <h3>2. What is Agile Process?</h3>
-- Agile means changes, & to adapt those changes. Agile is a project management methodology that breaks down larger projects into smaller, manageable chunks known as iterations. At the end of every iteration something of value is produced. The product that’s produced during every iteration should be able to be placed into the world to receive feedback from stakeholders or users.</br>
+- Agile means changes, & to adapt those changes. Agile is a project management methodology that breaks down larger projects into smaller, manageable chunks known as iterations. At the end of every iteration something of value is produced. The product that’s produced during every iteration should be able to be placed into the world to receive feedback from stakeholders or users.</br></br>
 - Phases of Agile Process :</br>
 i. Requirement gathering and analysis </br>
 ii. Design the requirements</br>
 iii. Construction/ iteration</br>
 iv. Deployment</br>
 v. Testing</br>
-vi. Feedback</br>
+vi. Feedback</br></br>
 - Advantages :</br>
 i. Project is divided into short and transparent iterations.</br>
 ii. It minimizes the risk of software development.</br>
 iii. Quick release of the first product version.</br>
 iv. Customer can see the result and understand whether he/she is satisfied with it or not.</br>
-v. It has a flexible change process.</br>
+v. It has a flexible change process.</br></br>
 - Disadvantages :</br>
 i. The development team should be highly professional and client-oriented.</br>
 ii. New requirement may be a conflict with the existing architecture.</br>
