@@ -22,7 +22,7 @@ v. It has a flexible change process.</br></br>
 i. The development team should be highly professional and client-oriented.</br>
 ii. New requirement may be a conflict with the existing architecture.</br>
 iii. With further correction and change, there may be chances that the project will cross the expected time.</br>
-iv. There may be difficult to estimate the final cost of the project due to constant iteration.</br>
+iv. There may be difficult to estimate the final cost of the project due to constant iteration.</br></br>
 
 ![](https://images.ctfassets.net/4zfc07om50my/5wMHnK8XxK9kW99mebdp94/2cc919cd11ba35f6db993977fd0ff674/Agile.png)
 
