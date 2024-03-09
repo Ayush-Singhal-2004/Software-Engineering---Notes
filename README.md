@@ -216,11 +216,8 @@ iii. Identifying and tracking requirements attributes </br>
 - It is a part of requirement engineering process, this is also known as the gathering of requirements. Here, requirements are identified with the help of customers and existing system processes. </br>
 - It can be successful only through an effective customer-developer partnership. It is needed to know what the users really need. </br>
 
-<h3>6. Differentiate functional and nonfunctional requirements?</h3></br>
-![](https://ddi-dev.com/uploads/difference.png)
-</br>
 
-<h3>7. Why is traceability an important aspect of requirement management?</h3>
+<h3>6. Why is traceability an important aspect of requirement management?</h3>
 - Traceability means the 'ability to trace something'. Traceability is an important aspect of requirement management in software engineering because it helps ensure that all aspects of the software development process remain aligned with the original requirements and objectives. Here's why traceability is important in simple terms : </br>
 i. Maintaining Consistency: Traceability allows developers to track how each requirement is implemented in the software design, development, and testing phases. This ensures that the final product aligns with the initial specifications provided by stakeholders. </br>
 ii. Managing Changes: As requirements evolve or change over the course of the project, traceability enables developers to understand the impact of those changes on other parts of the software. It helps them identify which components need to be modified, tested, or revalidated to accommodate the changes effectively. </br>
@@ -228,7 +225,7 @@ iii. Ensuring Compliance: Traceability helps ensure that the software meets regu
 iv. Facilitating Communication: Traceability fosters effective communication and collaboration among team members, stakeholders, and different project phases. It provides a common understanding of the project's progress and helps stakeholders make informed decisions based on the status of requirements implementation. </br>
 v. Supporting Maintenance and Evolution: As the software evolves over time, traceability helps developers understand the rationale behind design decisions and past changes. This knowledge makes it easier to maintain and enhance the software in the future while minimizing the risk of introducing unintended side effects. </br>
 
-<h3>8. Why content system models useful for requirements validation?</h3>
+<h3>7. Why content system models useful for requirements validation?</h3>
 - Content system models, also known as conceptual models, are useful for requirements validation in software engineering for several reasons : </br></br>
 i. Clarity and Understanding: Content system models provide a visual representation of the system's structure, components, and relationships. This helps stakeholders, including developers and clients, to gain a clearer understanding of the system's requirements and how they relate to one another. </br></br>
 ii. Identification of Ambiguities and Inconsistencies: By creating content system models, inconsistencies and ambiguities in the requirements can be identified more easily. These models help stakeholders to visualize potential conflicts or gaps in the requirements specification, enabling them to address these issues before moving forward with development. </br></br>
@@ -236,4 +233,3 @@ iii. Requirement Completeness: Content system models allow stakeholders to verif
 iv. Validation Against User Needs: Content system models help ensure that the requirements align with the needs and expectations of the end users. By visualizing the system from the user's perspective, stakeholders can validate whether the proposed system will meet user requirements and provide the desired functionality and usability. </br></br>
 v. Facilitates Communication: Content system models serve as a communication tool that facilitates discussions among stakeholders. They provide a common visual representation that can be used to communicate complex ideas and requirements more effectively, helping to ensure that all parties involved have a shared understanding of the system. </br></br>
 vi.Early Detection of Design Flaws: Content system models allow stakeholders to identify potential design flaws or issues early in the development process. By visualizing the system's architecture and interactions, stakeholders can anticipate potential problems and make necessary adjustments to the requirements before significant resources are invested in development. </br></br>
-
