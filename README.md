@@ -1,7 +1,7 @@
 <h1>Unit 1</h1>
 <h3>1. What is Software Engineering?</h3>
 - Software Engineering consists of two words software and engineering, where Software can be defined as a collection of computer programs, which in turn is a collection of commands. Engineering on the other hand, is all about developing products, using well-defined, scientific principles and methods.</br>
-- Software Engineering is a systemic, well disciplined, cost effective techniques for software development. The outcome of software engineering is an efficient and reliable software product</br>
+- Software Engineering is a systemic, well disciplined ,cost effective techniques for software development. The outcome of software engineering is an efficient and reliable software product</br>
 
 <h3>2. What is Agile Process?</h3>
 - Agile means changes, & to adapt those changes. Agile is a project management methodology that breaks down larger projects into smaller, manageable chunks known as iterations. At the end of every iteration something of value is produced. The product that’s produced during every iteration should be able to be placed into the world to receive feedback from stakeholders or users.</br></br>
@@ -175,6 +175,65 @@ i. Defect Density : Defect density measures the number of defects or bugs identi
 ii. Code Churn: Code churn measures the rate of change or modification to the software codebase over a specific period. High code churn may indicate instability in the software and increased risk of introducing defects during maintenance activities. </br>
 iii. Percentage of Reopened Issues: This metric measures the percentage of issues or defects that are reopened or resurface after being marked as resolved. A high percentage of reopened issues may indicate inadequate testing or incomplete resolution of problems during maintenance. </br>
 iv. Change Request Backlog: Change request backlog measures the number of pending change requests or enhancement requests awaiting implementation. Monitoring the backlog helps prioritize maintenance activities and manage resource allocation effectively. </br>
-v. Customer Satisfaction Score (CSAT): CSAT measures the satisfaction level of customers or end-users with the maintenance and support services provided. Regular surveys or feedback mechanisms can be used to collect CSAT data and identify areas for improvement. </br></br>
+v. Customer Satisfaction Score (CSAT): CSAT measures the satisfaction level of customers or end-users with the maintenance and support services provided. Regular surveys or feedback mechanisms can be used to collect CSAT data and identify areas for improvement. </br>
 
 <h1>Unit 2</h1>
+
+<h3>1. What are functional requirements?</h3>
+- Functional requirements in software engineering are specifications that outline the specific behaviors, functions, and features that a software system must perform to meet the needs of its users. These requirements describe what the system should do, including its inputs, processing logic, and outputs. In simple terms, functional requirements define the "what" of the system - what actions it should perform and what results it should produce. </br>
+- Functional Requirements defines the basic system behavior. They define what the system does or must not do. It defines how the system responds to the input. If the Functional requirements are not met, the system will not work. Abnormal Behaviour is also documented as Functional requirements in the form of Exception Handling.
+E.g. when the user enters the information, the system shall sends an approval request. </br></br>
+- Example of Functional Requirements : </br>
+i. The user shall be able to search either the entire database of patients or select a subset. </br>
+ii. Every order shall be allocated a unique identifier(ORDER_ID)which the user shall use to access that order. </br>
+
+<h3>2. What are non-functional requirements?</h3>
+- Non-functional requirements in software engineering refer to the criteria that describe the operational aspects of a system rather than its specific behaviors or functionalities. Non-functional requirements address various aspects such as performance, security, reliability, usability, scalability, maintainability, and others. These requirements are crucial for ensuring that the software system meets the expected levels of service and provides a satisfactory user experience. </br>
+- These are basically the quality constraints that the system must satisfy according to the project contract. </br>
+- They do not affect the basic functionality of the system. Even if these requirements are not met, the system will still perform its basic purpose. </br>
+- Must be built into the framework of the software product. Failure to meet a non functional system requirement may take the whole system unusable. </br>
+
+<h3>3. What is the basic concept of software requirements documents?</h3>
+- The basic concept of a software requirements document (SRD) is to clearly and comprehensively outline the specifications and expectations for a software project. It serves as a formal agreement between the stakeholders, including clients, users, and developers, regarding what the software should accomplish and how it should function. </br>
+- Here are the key points about software requirements documents : </br>
+i. Description of the Project </br>
+ii. Functional Requirement and Non-functional Requirements </br>
+iii. User Interface (UI) Design </br>
+iv. Dependencies and Constraints </br>
+v. Assumptions and Risks </br>
+vi. Acceptance Criteria </br>
+vii. Approval and Sign-off </br>
+
+<h3>4. What is meant by requirement management?</h3>
+- Requirement management is the process of managing changing requirements during the requirements engineering process and system development. It is a continuous process throughout the project. </br>
+- Requirements management enables the development team to identify, control, and track requirements and changes that occur as the software development process. </br>
+- The essential activities performed in requirements management are listed below : </br>
+i. Recognizing the need for change in the requirements </br>
+ii. Establishing a relationship amongst stakeholders and involving them in the requirements engineering process </br>
+iii. Identifying and tracking requirements attributes </br>
+
+<h3>5. Define requirement elicitation and analysis?</h3>
+- It is a part of requirement engineering process, this is also known as the gathering of requirements. Here, requirements are identified with the help of customers and existing system processes. </br>
+- It can be successful only through an effective customer-developer partnership. It is needed to know what the users really need. </br>
+
+<h3>6. Differentiate functional and nonfunctional requirements?</h3></br>
+- ![](https://ddi-dev.com/uploads/difference.png)
+</br>
+
+<h3>7. Why is traceability an important aspect of requirement management?</h3>
+- Traceability means the 'ability to trace something'. Traceability is an important aspect of requirement management in software engineering because it helps ensure that all aspects of the software development process remain aligned with the original requirements and objectives. Here's why traceability is important in simple terms : </br>
+i. Maintaining Consistency: Traceability allows developers to track how each requirement is implemented in the software design, development, and testing phases. This ensures that the final product aligns with the initial specifications provided by stakeholders. </br>
+ii. Managing Changes: As requirements evolve or change over the course of the project, traceability enables developers to understand the impact of those changes on other parts of the software. It helps them identify which components need to be modified, tested, or revalidated to accommodate the changes effectively. </br>
+iii. Ensuring Compliance: Traceability helps ensure that the software meets regulatory or compliance standards by providing a clear link between the requirements and the implemented features. This makes it easier to demonstrate compliance during audits or regulatory inspections. </br>
+iv. Facilitating Communication: Traceability fosters effective communication and collaboration among team members, stakeholders, and different project phases. It provides a common understanding of the project's progress and helps stakeholders make informed decisions based on the status of requirements implementation. </br>
+v. Supporting Maintenance and Evolution: As the software evolves over time, traceability helps developers understand the rationale behind design decisions and past changes. This knowledge makes it easier to maintain and enhance the software in the future while minimizing the risk of introducing unintended side effects. </br>
+
+<h3>8. Why content system models useful for requirements validation?</h3>
+- Content system models, also known as conceptual models, are useful for requirements validation in software engineering for several reasons : </br></br>
+i. Clarity and Understanding: Content system models provide a visual representation of the system's structure, components, and relationships. This helps stakeholders, including developers and clients, to gain a clearer understanding of the system's requirements and how they relate to one another. </br></br>
+ii. Identification of Ambiguities and Inconsistencies: By creating content system models, inconsistencies and ambiguities in the requirements can be identified more easily. These models help stakeholders to visualize potential conflicts or gaps in the requirements specification, enabling them to address these issues before moving forward with development. </br></br>
+iii. Requirement Completeness: Content system models allow stakeholders to verify whether all necessary aspects of the system have been addressed in the requirements specification. If certain components or interactions are missing from the model, it indicates that additional requirements may need to be added to ensure the completeness of the specification. </br></br>
+iv. Validation Against User Needs: Content system models help ensure that the requirements align with the needs and expectations of the end users. By visualizing the system from the user's perspective, stakeholders can validate whether the proposed system will meet user requirements and provide the desired functionality and usability. </br></br>
+v. Facilitates Communication: Content system models serve as a communication tool that facilitates discussions among stakeholders. They provide a common visual representation that can be used to communicate complex ideas and requirements more effectively, helping to ensure that all parties involved have a shared understanding of the system. </br></br>
+vi.Early Detection of Design Flaws: Content system models allow stakeholders to identify potential design flaws or issues early in the development process. By visualizing the system's architecture and interactions, stakeholders can anticipate potential problems and make necessary adjustments to the requirements before significant resources are invested in development. </br></br>
+
