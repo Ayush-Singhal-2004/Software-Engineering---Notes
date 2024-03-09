@@ -217,7 +217,7 @@ iii. Identifying and tracking requirements attributes </br>
 - It can be successful only through an effective customer-developer partnership. It is needed to know what the users really need. </br>
 
 <h3>6. Differentiate functional and nonfunctional requirements?</h3></br>
-- ![](https://ddi-dev.com/uploads/difference.png)
+![](https://ddi-dev.com/uploads/difference.png)
 </br>
 
 <h3>7. Why is traceability an important aspect of requirement management?</h3>
