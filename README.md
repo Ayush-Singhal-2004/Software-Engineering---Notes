@@ -175,4 +175,6 @@ i. Defect Density : Defect density measures the number of defects or bugs identi
 ii. Code Churn: Code churn measures the rate of change or modification to the software codebase over a specific period. High code churn may indicate instability in the software and increased risk of introducing defects during maintenance activities. </br>
 iii. Percentage of Reopened Issues: This metric measures the percentage of issues or defects that are reopened or resurface after being marked as resolved. A high percentage of reopened issues may indicate inadequate testing or incomplete resolution of problems during maintenance. </br>
 iv. Change Request Backlog: Change request backlog measures the number of pending change requests or enhancement requests awaiting implementation. Monitoring the backlog helps prioritize maintenance activities and manage resource allocation effectively. </br>
-v. Customer Satisfaction Score (CSAT): CSAT measures the satisfaction level of customers or end-users with the maintenance and support services provided. Regular surveys or feedback mechanisms can be used to collect CSAT data and identify areas for improvement. </br>
+v. Customer Satisfaction Score (CSAT): CSAT measures the satisfaction level of customers or end-users with the maintenance and support services provided. Regular surveys or feedback mechanisms can be used to collect CSAT data and identify areas for improvement. </br></br>
+
+<h1>Unit 2</h1>
