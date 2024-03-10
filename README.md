@@ -304,3 +304,105 @@ vii. Maintainability: Modules should be designed with maintainability in mind, m
 viii. Flexibility: Modules should be designed to be flexible and adaptable to changing requirements and environments. Flexible modules can accommodate new features, technologies, and business rules without requiring extensive modifications to the existing codebase. </br>
 
 <h1>Unit 5</h1>
+
+<h3>1. What are the special considerations for web application design and development?</h3>
+- In software engineering, designing and developing web applications involves several special considerations due to the unique nature of web technologies and the challenges they present. Here are some key considerations : </br>
+i. Cross-Browser Compatibility: Web applications need to work consistently across different web browsers such as Chrome, Firefox, Safari, and Edge. Developers need to ensure that the application functions properly and looks good on all major browsers. </br>
+ii. Responsive Design: With the increasing use of mobile devices, web applications must be designed responsively to adapt to various screen sizes and resolutions. This ensures a consistent user experience across desktops, tablets, and smartphones. </br>
+iii. Performance Optimization: Web applications should be optimized for performance to ensure fast loading times and smooth user interactions. This involves minimizing file sizes, reducing server requests, and optimizing code and assets. </br>
+iv. Security: Web applications are vulnerable to various security threats such as cross-site scripting (XSS), SQL injection, and CSRF attacks. Developers need to implement robust security measures such as data encryption, input validation, and user authentication to protect against these threats. </br>
+v. Scalability: Web applications should be designed to handle increasing loads and scale seamlessly as the user base grows. This may involve using scalable architecture patterns such as microservices, caching, and load balancing. </br>
+vi. Accessibility: Web applications should be accessible to users with disabilities, including those using screen readers and assistive technologies. Developers need to ensure that the application adheres to accessibility standards such as WCAG (Web Content Accessibility Guidelines). </br>
+vii. SEO (Search Engine Optimization): Web applications should be optimized for search engines to improve visibility and ranking in search results. This involves using proper HTML markup, optimizing page load speed, and creating high-quality content. </br>
+viii. User Experience (UX): Providing a positive user experience is essential for the success of web applications. Developers should focus on usability, intuitive navigation, and clear user interface design to ensure that users can easily accomplish their tasks and goals. </br>
+
+<h3>2. What is distributed system issues?</h3>
+i. Openness : It implies that system components can be independently developed in any programming language and, if these conform to standards, they will work with other components. </br>
+ii. Transparency : Transparency ensures that the distributes system should be perceived as a single entity by the users or the application programmers rather than the collection of autonomous systems, which is cooperating.  </br>
+iii. Scalability : The scalability of a system reflects its ability to deliver a high quality service as demands on the system increase - Size, Distribution, Manageability.
+iv. Security : When a system is distributed, the number of ways that the system may be attacked is significantly increased, compared to centralized systems. The types of attack that a distributed system must defend itself against are - Interception, where communications between parts of the system are intercepted by an attacker so that there is a loss of confidentiality. E.g.Eavesdropping on communication. Next attack is Interruption, where system services are attacked and cannot be delivered as expected. E.g. Overloading a server host so that it cannot respond. </br>
+v. Concurrency : There is a possibility that several clients will attempt to access a shared resource at the same time. Each resource must be safe in a concurrent environment. Any object that represents a shared resource a distributed system must ensure that it operates correctly in a concurrent environment. </br>
+vi. Layered Pattern : A Layered pattern is an architectural pattern works in layers that help subtasks which are conceptually different from each other to be implemented and worked on simultaneously but within two different layers.  </br>
+vii. Master  Slave Pattern : In a master-slave pattern, the master component distributes the work among identical slave components. This pattern supports parallel computing.This pattern gets used in full tolerant systems. This works based on the divide and rule principle. Master-slave architectures are commonly used in real-time systems in which guaranteed interaction response times are required. The 'master' process is usually responsible for computation, coordination and communications and it controls the 'slave' processes. 'Slave' processes are dedicated to specific actions, such as the acquisition of data from an array of sensors.
+</br>
+
+<h1>Unit 6 </h1>
+
+<h3>1. Define software quality?</h3>
+- Software quality or Software Quality Assurance (SQA) is simply a way to assure quality in the software. It is the set of activities which ensure processes, procedures as well as standards are suitable for the project and implemented correctly. </br>
+- Software Quality Assurance is a process which works parallel to development of software. It focuses on improving the process of development of software so that problems can be prevented before they become a major issue. Software Quality Assurance is a kind of Umbrella activity that is applied throughout the software process. </br></br>
+- Software Quality Assurance has :  </br>
+i. A quality management approach  </br>
+ii. Formal technical reviews  </br>
+iii. Multi testing strategy </br>
+iv. Effective software engineering technology </br>
+v. Measurement and reporting mechanism </br></br>
+- Software Quality Assurance activities :  </br>
+i. SQA Management Plan </br>
+ii. Set The Check Points </br>
+iii. Multi testing Strategy </br>
+iv. Measure Change Impact </br>
+v. Manage Good Relations </br> </br>
+- Benefits of Software Quality Assurance (SQA) : </br>
+i. SQA produces high quality software. </br>
+ii. High quality application saves time and cost. </br>
+iii. SQA is beneficial for better reliability.  </br>
+iv. SQA is beneficial in the condition of no maintenance for a long time. </br>
+v. High quality commercial software increase market share of company.  </br>
+vi. Improving the process of creating software.  </br>
+vii. Improves the quality of the software.  </br>  </br>
+- Disadvantage of SQA : </br>
+i. Adding more resources </br>
+ii. Employing more workers to help maintain quality and so much more. </br>
+
+<h3>2. What is risk management?</h3>
+- A clear definition of a "risk" is a problem that could cause some loss or threaten the progress of the project, but which has not happened yet. Risk is an expectation of loss, a potential problem that may or may not occur in future. It is generally caused due to lack of information, control or time.  </br>
+- A possibility of suffering from loss in software development process is called a software risk. Loss can be anything like increase in production cost, Development of poor quality software, not being able to complete the project on time. </br></br>
+- Risks can be arise from 3 Possible cases : </br>
+i. Known Knowns </br>
+ii. Known Unknowns </br>
+iii. Unknown Unknowns </br> </br>
+- Known Knowns:(Things we are aware of & Understand) : </br>
+These are software risks that are actually facts known to the team as well as to the entire project. For E.g.: not having enough number of developers can delay the project delivery. Such risks are described & included in the project management plan. </br></br> 
+- Known Unknowns:(Things we are aware of but don’t  Understand) : </br>
+These are the software risks that the project team is aware of but it is unknown that such risks exists in the project or not. For e.g.. If the communication with the client is not of good level then it is not possible to capture the requirement properly. </br></br>
+- Unknown Unknowns : (Things we are neither aware of nor understand) These are those kind of risks about which the organization has no idea. Such risks are generally related to technology. </br></br>
+- Types of Risks : </br></br>
+i. Schedule Risks : </br>
+- Schedule related risks refers to time related risks or project delivery related planning risks. </br>
+-The wrong schedule affects the project development and delivery. These risks are mainly indicates to running behind time as a result project development doesn’t progress timely and it directly impacts to delivery of project.  
+- This is the risk associated with the time schedules. It directly affect the economy & reputation of company. </br></br>
+ii. Budget Risks : </br>
+- Budget related risks refers to the monetary risks mainly it occurs due to budget overruns. </br>
+- Always the financial aspect for the project should be managed as per decided but if financial aspect of project mismanaged then there budget concerns will arise by giving rise to budget risks. </br>
+- So proper finance distribution and management are required for the success of project otherwise it may lead to project failure. </br> </br>
+iii. Technical Risks : </br>
+- These kind of risks are relevant to function of the systems and performance of the system as name tells these are technical risks. </br>
+- Technical risks refers to the functional risk or performance risk which means this technical risk mainly associated with functionality of product or performance part of the software product. </br> </br>
+iv. Programmatic Risks : </br>
+- Programmatic risks refers to the external risk or other unavoidable risks.  </br>
+- These are the external risks which are unavoidable in nature. These risks come from outside and it is out of control of programs. </br></br>
+
+<h1>Unit 7</h1>
+
+<h3>1. What is software testing?</h3>
+- It is the process used to identify the correctness, completeness & quality of developed computer software. It is a method to check whether the actual software product matches the expected requirements. </br>
+- Software testing checks for the : </br>
+i. Specification  </br>
+ii. Functionality </br>
+iii. Performance </br>
+
+<h3>2. What is black box testing?</h3>
+- Black box testing is also known as Behavioral Testing. Here, you are not aware of the internal design or code. It aims to find bugs in the functions, interface, data structures, behavior, initialization and termination. </br></br>
+- Advantages of Black Box Testing : </br>
+It exposes inconsistencies in specifications. There is no need to understand programming.  </br></br>
+- Disadvantages of Black Box Testing : </br> 
+Tests may be tough to design. Many bugs can go undetected.  </br>
+
+<h3>3. What is regression testing?</h3>
+- Regression testing is performed when any change is done in the software or any defect is fixed. It is done to ensure that a new change or fix done has not impacted any existing functionality of the software. </br>
+
+<h3>4. What is pattern testing?</h3>
+- Pattern Testing is performed based on the previous defects found in the software. Defect record is analyzed for the cause of defects and test cases are created keeping the defects and their cause in knowledge to find defect before the software goes into production. </br>
+
+![](https://static.javatpoint.com/tutorial/software-testing/images/levels-of-testing.png)
